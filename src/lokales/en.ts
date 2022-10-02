@@ -18,7 +18,7 @@ export const config = {
         hobby: "Your hobby",
     },
     button: {
-        signUp: "SignUp",
+        signUp: "Next",
         complete: "Complete",
         changeSignUp: "Change SignUp Information",
     },
