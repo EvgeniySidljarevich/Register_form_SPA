@@ -7,7 +7,6 @@ Requirements for validation are dynamic and linked to backend.
 Project has been created according to the rules and requirements described in technical task. 
 
 #### Tools and features:
-
 - React.js;
 - Redux;
 - Styled components;
